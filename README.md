@@ -1,6 +1,6 @@
 # Mines and Water Quality in Nevada: A GIS Analysis
 
-The data used in this project is contained in `project.gdb`. The code along with additional commentary and some outputs can be found at `project_notebook.ipynb`. In order to run the code as written, you will need access to Esri software (ideally Jupyter Notebooks in ArcGIS Online) and some computing power.
+The data used in this project is contained in `project.gdb`. The code along with additional commentary and some outputs can be found at `project_notebook.ipynb`. In order to run the code as written, you will need access to Esri software (ideally Jupyter Notebooks in ArcGIS Online) and some computing power. The writeup and code are from Fall 2022, and thus may be out of date with current information.
 
 Mining is essential to Nevada’s economy, but the impacts it has on the environment go under-appreciated. In an attempt to determine to what extent the proximity of a mine has environmental effects, specifically on water quality, in the state of Nevada, I do hotspot and correlation analysis on datasets of mines and water quality. I also document the challenges I experienced throughout the project, including an error even Esri can’t reliably solve. While this initial analysis does not return much of interest, the journey helped me develop important skills using the ArcGIS API for Python.
 
